@@ -25,4 +25,4 @@ Arr100.txt	7	0	0
 Arr1000.txt	131	20	21
 Arr4000.txt	2368	81	60
 
-All the codes were developed and executed in Pycharm
+All the codes are developed and executed in Pycharm
