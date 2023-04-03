@@ -1,0 +1,87 @@
+1. Bat,Boa
+F:\installedsoftwares\pycharm\pycharmProjects\LCS\venv\Scripts\python.exe F:\installedsoftwares\pycharm\pycharmProjects\LCS\LCS_DP_CB.py
+X =  Bat
+Y =  Boa
+startmilliseconds 1651177682459970000
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+  Y B o a
+X 0 0 0 0
+B 0\1<1<1
+a 0^1^1\2
+t 0^1^1^2
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+endmilliseconds 1651177682472060000
+The length of the longest common subsequence is : 2
+The longest common subsequence of " Bat " and " Boa " is " Ba "
+
+Process finished with exit code 0
+
+
+
+2. Bogart,Bart
+F:\installedsoftwares\pycharm\pycharmProjects\LCS\venv\Scripts\python.exe F:\installedsoftwares\pycharm\pycharmProjects\LCS\LCS_DP_CB.py
+X =  Bogart
+Y =  Bart
+startmilliseconds 1651177788568110000
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+  Y B a r t
+X 0 0 0 0 0
+B 0\1<1<1<1
+o 0^1^1^1^1
+g 0^1^1^1^1
+a 0^1\2<2<2
+r 0^1^2\3<3
+t 0^1^2^3\4
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+endmilliseconds 1651177788568110000
+The length of the longest common subsequence is : 4
+The longest common subsequence of " Bogart " and " Bart " is " Bart "
+
+Process finished with exit code 0
+
+
+
+3. Popper,Paper
+F:\installedsoftwares\pycharm\pycharmProjects\LCS\venv\Scripts\python.exe F:\installedsoftwares\pycharm\pycharmProjects\LCS\LCS_DP_CB.py
+X =  Popper
+Y =  Paper
+startmilliseconds 1651177547960130000
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+  Y P a p e r
+X 0 0 0 0 0 0
+P 0\1<1<1<1<1
+o 0^1^1^1^1^1
+p 0^1^1\2<2<2
+p 0^1^1\2^2^2
+e 0^1^1^2\3<3
+r 0^1^1^2^3\4
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+endmilliseconds 1651177547962160000
+The length of the longest common subsequence is : 4
+The longest common subsequence of " Popper " and " Paper " is " Pper "
+
+Process finished with exit code 0
+
+
+
+4.Panther,Partner
+F:\installedsoftwares\pycharm\pycharmProjects\LCS\venv\Scripts\python.exe F:\installedsoftwares\pycharm\pycharmProjects\LCS\LCS_DP_CB.py
+X =  Panther
+Y =  Partner
+startmilliseconds 1651177464683260000
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+  Y P a r t n e r
+X 0 0 0 0 0 0 0 0
+P 0\1<1<1<1<1<1<1
+a 0^1\2<2<2<2<2<2
+n 0^1^2^2^2\3<3<3
+t 0^1^2^2\3^3^3^3
+h 0^1^2^2^3^3^3^3
+e 0^1^2^2^3^3\4<4
+r 0^1^2\3^3^3^4\5
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+endmilliseconds 1651177464693350000
+The length of the longest common subsequence is : 5
+The longest common subsequence of " Panther " and " Partner " is " Paner "
+
+Process finished with exit code 0

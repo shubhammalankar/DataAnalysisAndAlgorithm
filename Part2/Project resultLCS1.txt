@@ -1,0 +1,393 @@
+BY using LCS-DP result is as below
+
+1. BillBoard,BoardBill
+
+F:\installedsoftwares\pycharm\pycharmProjects\LCS\venv\Scripts\python.exe F:/installedsoftwares/pycharm/pycharmProjects/LCS/LCS_DP.py
+First String : BillBoard
+Second String : BoardBill
+1651189698135
+Length of substring 5
+1651189698157
+time taken in execution : 22
+Process finished with exit code 0
+
+2. BillBoard,BoardBill1
+
+F:\installedsoftwares\pycharm\pycharmProjects\LCS\venv\Scripts\python.exe F:/installedsoftwares/pycharm/pycharmProjects/LCS/LCS_DP.py
+First String : BillBoard
+Second String : BoardBill1
+1651189475241
+Length of substring 5
+1651189475310
+time taken in execution : 69
+
+Process finished with exit code 0
+
+3. BillBoard,BoardBill12
+F:\installedsoftwares\pycharm\pycharmProjects\LCS\venv\Scripts\python.exe F:/installedsoftwares/pycharm/pycharmProjects/LCS/LCS_DP.py
+First String : BillBoard
+Second String : BoardBill12
+1651189813625
+Length of substring 5
+1651189813741
+time taken in execution : 116
+
+Process finished with exit code 0
+
+4. BillBoard,BoardBill123
+F:\installedsoftwares\pycharm\pycharmProjects\LCS\venv\Scripts\python.exe F:/installedsoftwares/pycharm/pycharmProjects/LCS/LCS_DP.py
+First String : BillBoard
+Second String : BoardBill123
+1651189893738
+Length of substring 5
+1651189893903
+time taken in execution : 165
+
+Process finished with exit code 0
+
+5. BillBoard,BoardBill1234
+F:\installedsoftwares\pycharm\pycharmProjects\LCS\venv\Scripts\python.exe F:/installedsoftwares/pycharm/pycharmProjects/LCS/LCS_DP.py
+First String : BillBoard
+Second String : BoardBill1234
+1651189933512
+Length of substring 5
+1651189933835
+time taken in execution : 323
+
+Process finished with exit code 0
+
+6. BillBoard,BoardBill12345
+F:\installedsoftwares\pycharm\pycharmProjects\LCS\venv\Scripts\python.exe F:/installedsoftwares/pycharm/pycharmProjects/LCS/LCS_DP.py
+First String : BillBoard
+Second String : BoardBill12345
+1651189951379
+Length of substring 5
+1651189951802
+time taken in execution : 423
+
+Process finished with exit code 0
+
+7. BillBoard,BoardBill123456
+F:\installedsoftwares\pycharm\pycharmProjects\LCS\venv\Scripts\python.exe F:/installedsoftwares/pycharm/pycharmProjects/LCS/LCS_DP.py
+First String : BillBoard
+Second String : BoardBill123456
+1651189986845
+Length of substring 5
+1651189987463
+time taken in execution : 618
+
+Process finished with exit code 0
+
+8. BillBoard,BoardBill1234567
+F:\installedsoftwares\pycharm\pycharmProjects\LCS\venv\Scripts\python.exe F:/installedsoftwares/pycharm/pycharmProjects/LCS/LCS_DP.py
+First String : BillBoard
+Second String : BoardBill1234567
+1651190020850
+Length of substring 5
+1651190021875
+time taken in execution : 1025
+
+Process finished with exit code 0
+
+9. BillBoard,BoardBill1234567B
+F:\installedsoftwares\pycharm\pycharmProjects\LCS\venv\Scripts\python.exe F:/installedsoftwares/pycharm/pycharmProjects/LCS/LCS_DP.py
+First String : BillBoard
+Second String : BoardBill1234567B
+1651190053947
+Length of substring 5
+1651190055535
+time taken in execution : 1588
+
+Process finished with exit code 0
+
+10. BillBoard,BoardBill1234567Bo
+F:\installedsoftwares\pycharm\pycharmProjects\LCS\venv\Scripts\python.exe F:/installedsoftwares/pycharm/pycharmProjects/LCS/LCS_DP.py
+First String : BillBoard
+Second String : BoardBill1234567Bo
+1651190079226
+Length of substring 6
+1651190081300
+time taken in execution : 2074
+
+Process finished with exit code 0
+
+11. BillBoard,BoardBill1234567Boa
+/usr/local/bin/python3 /Users/nageshwarjaiswal/pythonProject4(daa)/LCS_DP.py
+First String : BillBoard
+Second String : BoardBill1234567Boa
+1651190681708.68
+Length of substring 7
+1651190683453.619
+time taken in execution : 1744.93896484375
+Process finished with exit code 0
+
+12. BillBoard,BoardBill1234567Boar
+/usr/local/bin/python3 /Users/nageshwarjaiswal/pythonProject4(daa)/LCS_DP.py
+First String : BillBoard
+Second String : BoardBill1234567Boar
+1651190630554.8843
+Length of substring 8
+1651190632803.8762
+time taken in execution : 2248.991943359375
+Process finished with exit code 0
+
+13. BillBoard,BoardBill1234567Board
+/usr/local/bin/python3 /Users/nageshwarjaiswal/pythonProject4(daa)/LCS_DP.py
+First String : BillBoard
+Second String : BoardBill1234567Board
+1651190556353.446
+Length of substring 9
+1651190558549.4568
+time taken in execution : 2196.0107421875
+
+14. BillBoard,BoardBill1234567Board1
+/usr/local/bin/python3 /Users/nageshwarjaiswal/pythonProject4(daa)/LCS_DP.py
+First String : BillBoard
+Second String : BoardBill1234567Board1
+1651190497689.835
+Length of substring 9
+1651190499957.203
+time taken in execution : 2267.367919921875
+Process finished with exit code 0
+
+15. BillBoard,BoardBill1234567Board12
+/usr/local/bin/python3 /Users/nageshwarjaiswal/pythonProject4(daa)/LCS_DP.py
+First String : BillBoard
+Second String : BoardBill1234567Board12
+1651190275531.122
+Length of substring 9
+1651190277847.3442
+time taken in execution : 2316.22216796875
+Process finished with exit code 0
+
+16. BillBoard,BoardBill1234567Board123
+/usr/local/bin/python3 /Users/nageshwarjaiswal/pythonProject4(daa)/LCS_DP.py
+First String : BillBoard
+Second String : BoardBill1234567Board123
+1651190180188.671
+Length of substring 9
+1651190182803.165
+time taken in execution : 2614.494140625
+Process finished with exit code 0
+
+17. BillBoard,BoardBill1234567Board1234
+/usr/local/bin/python3 /Users/nageshwarjaiswal/pythonProject4(daa)/LCS_DP.py
+First String : BillBoard
+Second String : BoardBill1234567Board1234
+1651190094478.9739
+Length of substring 9
+1651190097643.527
+time taken in execution : 3164.55322265625
+Process finished with exit code 0
+
+18. BillBoard,BoardBill1234567Board12345
+/usr/local/bin/python3 /Users/nageshwarjaiswal/pythonProject4(daa)/LCS_DP.py
+First String : BillBoard
+Second String : BoardBill1234567Board12345
+1651189980602.9692
+Length of substring 9
+1651189984889.897
+time taken in execution : 4286.927734375
+Process finished with exit code 0
+
+19. BillBoard,BoardBill1234567Board123456
+/usr/local/bin/python3 /Users/nageshwarjaiswal/pythonProject4(daa)/LCS_DP.py
+First String : BillBoard
+Second String : BoardBill1234567Board123456
+1651189848875.616
+Length of substring 9
+1651189854897.105
+time taken in execution : 6021.489013671875
+
+Process finished with exit code 0
+
+20. BillBoard,BoardBill1234567Board1234567
+/usr/local/bin/python3 /Users/nageshwarjaiswal/pythonProject4(daa)/LCS_DP.py
+First String : BillBoard
+Second String : BoardBill1234567Board1234567
+1651189705237.605
+Length of substring 9
+1651189714252.538
+time taken in execution : 9014.93310546875
+Process finished with exit code 0
+
+By Using LCS-BP we get following result
+1. BillBoard,BoardBill
+/usr/local/bin/python3 /Users/nageshwarjaiswal/pythonProject4(daa)/LCS_BF.py
+Start time: 1651192267175.9482
+1st String:BillBoard
+String two: BoardBill
+Length of LCS: 5
+End time: 1651192267176.0461
+time taken in execution : 0.097900390625
+
+2. BillBoard,BoardBill1
+/usr/local/bin/python3 /Users/nageshwarjaiswal/pythonProject4(daa)/LCS_BF.py
+Start time: 1651192225469.3508
+1st String:BillBoard
+String two: BoardBill1
+Length of LCS: 5
+End time: 1651192225469.443
+time taken in execution : 0.09228515625
+Process finished with exit code 0
+
+3. BillBoard,BoardBill12
+/usr/local/bin/python3 /Users/nageshwarjaiswal/pythonProject4(daa)/LCS_BF.py
+Start time: 1651192191881.0251
+1st String:BillBoard
+String two: BoardBill12
+Length of LCS:5
+End time: 1651192191881.128
+time taken in execution : 0.102783203125
+
+4. BillBoard,BoardBill123
+/usr/local/bin/python3 /Users/nageshwarjaiswal/pythonProject4(daa)/LCS_BF.py
+Start time: 1651192151228.831
+1st String:BillBoard
+String two: BoardBill123
+Length of LCS:5
+End time: 1651192151228.9211
+time taken in execution : 0.090087890625
+
+5. BillBoard,BoardBill1234
+/usr/local/bin/python3 /Users/nageshwarjaiswal/pythonProject4(daa)/LCS_BF.py
+Start time: 1651192063905.97
+1st String:BillBoard
+String two: BoardBill1234
+Length of LCS: 5
+End time: 1651192063906.103
+time taken in execution : 0.13305664062
+
+6. BillBoard,BoardBill12345
+/usr/local/bin/python3 /Users/nageshwarjaiswal/pythonProject4(daa)/LCS_BF.py
+Start time: 1651192028512.0151
+1st String:BillBoard
+String two: BoardBill12345
+Length of LCS: 5
+End time: 1651192028512.394
+
+7. BillBoard,BoardBill123456
+/usr/local/bin/python3 /Users/nageshwarjaiswal/pythonProject4(daa)/LCS_BF.py
+Start time: 1651191979091.796
+1st String:BillBoard
+String two: BoardBill123456
+Length of LCS:5
+End time: 1651191979092.1863
+time taken in execution : 0.390380859375
+
+8. BillBoard,BoardBill1234567
+/usr/local/bin/python3 /Users/nageshwarjaiswal/pythonProject4(daa)/LCS_BF.py
+Start time: 1651191946661.4011
+1st String:BillBoard
+String two: BoardBill1234567
+Length of LCS:5
+End time: 1651191946661.528
+time taken in execution : 0.126953125
+
+9. BillBoard,BoardBill1234567B
+/usr/local/bin/python3 /Users/nageshwarjaiswal/pythonProject4(daa)/LCS_BF.py
+Start time: 1651191866022.409
+1st String:BillBoard
+String two: BoardBill1234567B
+Length of LCS:5
+End time: 1651191866022.68
+time taken in execution : 0.27099609375
+
+10. BillBoard,BoardBill1234567Bo
+/usr/local/bin/python3 /Users/nageshwarjaiswal/pythonProject4(daa)/LCS_BF.py
+Start time: 1651191723465.692
+1st String:BillBoard
+String two: BoardBill1234567Bo
+Length of LCS:6
+End time: 1651191723465.985
+time taken in execution : 0.293212890625
+
+11. BillBoard,BoardBill1234567Boa
+/usr/local/bin/python3 /Users/nageshwarjaiswal/pythonProject4(daa)/LCS_BF.py
+Start time: 1651191689293.74
+1st String:BillBoard
+String two: BoardBill1234567Boa
+Length of LCS:7
+End time: 1651191689293.875
+time taken in execution : 0.135009765625
+
+12. BillBoard,BoardBill1234567Boar
+/usr/local/bin/python3 /Users/nageshwarjaiswal/pythonProject4(daa)/LCS_BF.py
+Start time: 1651191652202.2058
+1st String:BillBoard
+String two: BoardBill1234567Boar
+Length of LCS:8
+End time: 1651191652202.519
+time taken in execution : 0.313232421875
+
+13. BillBoard,BoardBill1234567Board
+/usr/local/bin/python3 /Users/nageshwarjaiswal/pythonProject4(daa)/LCS_BF.py
+Start time: 1651191601177.2969
+1st String:BillBoard
+String two: BoardBill1234567Board
+Length of LCS:9
+End time: 1651191601177.587
+time taken in execution : 0.2900390625
+
+14. BillBoard,BoardBill1234567Board1
+/usr/local/bin/python3 /Users/nageshwarjaiswal/pythonProject4(daa)/LCS_BF.py
+Start time: 1651191545430.919
+1st String:BillBoard
+String two: BoardBill1234567Board1
+Length of LCS:9
+End time: 1651191545431.067
+time taken in execution : 0.14794921875
+
+15. BillBoard,BoardBill1234567Board12
+/usr/local/bin/python3 /Users/nageshwarjaiswal/pythonProject4(daa)/LCS_BF.py
+Start time: 1651191499780.215
+1st String:BillBoard
+String two: BoardBill1234567Board12
+Length of LCS:9
+End time: 1651191499780.3599
+time taken in execution : 0.144775390625
+
+16. BillBoard,BoardBill1234567Board123
+/usr/local/bin/python3 /Users/nageshwarjaiswal/pythonProject4(daa)/LCS_BF.py
+Start time: 1651191465792.66
+1st String:BillBoard
+String two: BoardBill1234567Board123
+Length of LCS:9
+End time: 1651191465792.819
+time taken in execution : 0.1591796875
+
+17. BillBoard,BoardBill1234567Board1234
+/usr/local/bin/python3 /Users/nageshwarjaiswal/pythonProject4(daa)/LCS_BF.py
+Start time: 1651191361500.768
+1st String:BillBoard
+String two: BoardBill1234567Board1234
+Length of LCS:9
+End time: 1651191361501.0737
+time taken in execution : 0.3056640625
+
+18. BillBoard,BoardBill1234567Board12345
+/usr/local/bin/python3 /Users/nageshwarjaiswal/pythonProject4(daa)/LCS_BF.py
+Start time: 1651191302984.9
+1st String:BillBoard
+String two: BoardBill1234567Board12345
+Length of LCS: 9
+End time: 1651191302985.212
+time taken in execution : 0.31201171875
+
+19. BillBoard,BoardBill1234567Board123456
+/usr/local/bin/python3 /Users/nageshwarjaiswal/pythonProject4(daa)/LCS_BF.py
+Start time: 1651191181288.9001
+1st String:BillBoard
+String two: BoardBill1234567Board123456
+Length of LCS: 9
+End time: 1651191181289.2083
+time taken in execution : 0.30810546875
+
+20. BillBoard,BoardBill1234567Board1234567
+/usr/local/bin/python3 /Users/nageshwarjaiswal/pythonProject4(daa)/LCS_BF.py
+Start time: 1651191086646.799
+1st String:BillBoard
+String two: BoardBill1234567Board1234567
+Length of LCS: 9
+End time: 1651191086646.951
+time taken in execution : 0.15185546875
